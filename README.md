@@ -16,5 +16,6 @@ to build the project. This produces 'roc' executable, which takes the satellite 
 Example:
 
 > ./roc data/sat.lst --hops=true
+
 > ["START", "SAT8", "SAT14", "SAT2", "SAT1", "SAT15", "END"]
 
