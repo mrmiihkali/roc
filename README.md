@@ -1,6 +1,6 @@
 # ROC
 
-I was looking for a small project to try Elixir on, ROC fit the bill perfectly.
+I was looking for a small project to try Elixir on, ROC (https://reaktor.com/orbital-challenge/) fit the bill perfectly.
 This is my first Elixir project, so there is a lot to improve. Anyways, it was nice to try new approach for problem solving.
 
 ## Usage
@@ -16,5 +16,5 @@ to build the project. This produces 'roc' executable, which takes the satellite 
 Example:
 
 > ./roc data/sat.lst --hops=true
-["START", "SAT8", "SAT14", "SAT2", "SAT1", "SAT15", "END"]
+  ["START", "SAT8", "SAT14", "SAT2", "SAT1", "SAT15", "END"]
 
